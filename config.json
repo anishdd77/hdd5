@@ -1,0 +1,47 @@
+{
+  "token":"",
+  "prefix": "#",
+  "ids": ["611568839981006850"],
+  "wallpapers": {
+    "1": {
+        "src": "walls/p2.png",
+        "price": 0
+    },
+    "2": {
+        "src": "walls/p3.png",
+        "price": 200
+    },
+    "3": {
+        "src": "walls/p4.png",
+        "price": 1000
+    },
+    "4": {
+        "src": "walls/p5.jpg",
+        "price": 2000
+    },
+    "5": {
+        "src": "walls/p6.jpg",
+        "price": 2500
+    },
+    "6": {
+        "src": "walls/p7.png",
+        "price": 3000
+    },
+    "7": {
+        "src": "walls/p8.jpg",
+        "price": 4000
+    },
+     "8": {
+        "src": "walls/p9.jpeg",
+        "price": 5000
+    },
+    "9": {
+      "src": "walls/p10.jpg",
+      "price": 6000
+    },
+    "10": {
+      "src": "walls/p12.png",
+      "price": 7000
+    }
+  }
+}
